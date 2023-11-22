@@ -3,7 +3,7 @@
 
 My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) and an Honours/PhD student supervisor. 
 - I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
-- Over the last 12 months, I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
+- Over the last 12 months I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
 - I have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills.
 - I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
