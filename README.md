@@ -1,28 +1,41 @@
 ![masthead](https://media.licdn.com/dms/image/D5616AQGTco3WT3AEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1699933992704?e=1706140800&v=beta&t=q5bc8Ip2X35KOqAQsuqgOT1Fe0fZlZTDY1aURKwvnz8)
 ## Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Your GIF"> 
 
-My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> (Molecular Biology) and <b>Honours/PhD student supervisor</b>. 
-- I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
-- Over the last 12 months I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
-- I have <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Network), <b>JavaScript</b>  and <b>HTML/CSS</b> skills.
-- I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
+My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field of <b>Molecular Biology</b> and an <b>Honours/PhD student supervisor</b>. 
+* 📄 I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 
-🌍  I'm based in Melbourne, Australia
+* 🌱 Recently I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
 
-🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
+* 👨‍💻 I have <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Network), <b>JavaScript</b>  and <b>HTML/CSS</b> skills.
 
-✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
+* ⚡ I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
-🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)
+* 🌍  I'm based in Melbourne, Australia
 
-🧠  I'm learning R & Machine Learning
+* 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
 
-⚡  I'm looking for a Data Analyst / Bioinformatician position
+* ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
+
+* 🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)
+
+* 🧠  I'm learning R & Machine Learning
+
+* 🔭  I'm looking for a Data Analyst / Bioinformatician position
 
 ### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
+</a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://c0.klipartz.com/pngpicture/509/951/gratis-png-frasco-por-ejemplo-web-framework-piton-botella-botella.png" width="36" height="36" alt="Flask" />
 </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" />
 </a>
@@ -31,19 +44,17 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> (Molecular B
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://c0.klipartz.com/pngpicture/509/951/gratis-png-frasco-por-ejemplo-web-framework-piton-botella-botella.png" width="36" height="36" alt="Flask" />
-</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-</a>
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" />
 </a>
 </p>
+
+
                     
 ### Socials
                                    
