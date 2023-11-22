@@ -1,4 +1,4 @@
-![masthead](https://media.licdn.com/dms/image/D5616AQGTco3WT3AEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1699933992704?e=1706140800&v=beta&t=q5bc8Ip2X35KOqAQsuqgOT1Fe0fZlZTDY1aURKwvnz8)
+![masthead](images/masthead.png)
 ## Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Your GIF"> 
 
 My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field of <b>Molecular Biology</b> and an <b>Honours/PhD student supervisor</b>. 
@@ -59,7 +59,7 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field
 </p>
 
 ### Socials
-                                   
+
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-palframan-81640a269/" target="_blank" rel="noreferrer">
 <picture>
@@ -90,4 +90,3 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field
 </picture>
 </a>
 </p>
-
