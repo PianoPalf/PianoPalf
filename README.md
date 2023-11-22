@@ -8,7 +8,7 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field
 
 * 👨‍💻 I have <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Network), <b>JavaScript</b>  and <b>HTML/CSS</b> skills.
 
-* ⚡ I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
+* ⚡ Creator of <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
 * 🌍  I'm based in Melbourne, Australia
 
