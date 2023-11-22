@@ -5,8 +5,6 @@ Hi! My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fe
 Recently, I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I now have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
 
 I leveraged my Biomedical knowledge my newly acquired Data Analysis skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
-<a href="https://github.com/PianoPalf/antimicrobial-neural-network"><img align="right" alt="Coding" width="250" src="https://github.com/PianoPalf/antimicrobial-neural-network/blob/main/Resources/Images/ampnet_logo.png"></a>
-<br>
 
 *   🌍  I'm based in Melbourne, Australia
 *   🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
