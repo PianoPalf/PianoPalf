@@ -1,17 +1,24 @@
 ![masthead](https://media.licdn.com/dms/image/D5616AQGTco3WT3AEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1699933992704?e=1706140800&v=beta&t=q5bc8Ip2X35KOqAQsuqgOT1Fe0fZlZTDY1aURKwvnz8)
 ### Postdoctoral Research Fellow | Aspiring Data Analyst / Bioinformatician
-Hi! My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) and an Honours/PhD student supervisor. I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>. 
+#### Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Your GIF"> 
 
-Over the last 12 months, I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I now have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
+My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) and an Honours/PhD student supervisor. 
+- I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
+- Over the last 12 months, I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
+- I have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills.
+- I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
-I leveraged my knowledge of Molecular Biology and newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
+🌍  I'm based in Melbourne, Australia
 
-*   🌍  I'm based in Melbourne, Australia
-*   🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
-*   ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
-*   🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)
-*   🧠  I'm learning R & Machine Learning
-*   ⚡  I'm looking for a Data Analyst / Bioinformatician position
+🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
+
+✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
+
+🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)
+
+🧠  I'm learning R & Machine Learning
+
+⚡  I'm looking for a Data Analyst / Bioinformatician position
 
 ### Skills
 
