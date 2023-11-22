@@ -1,7 +1,7 @@
 ![masthead](https://media.licdn.com/dms/image/D5616AQGTco3WT3AEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1699933992704?e=1706140800&v=beta&t=q5bc8Ip2X35KOqAQsuqgOT1Fe0fZlZTDY1aURKwvnz8)
 ## Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Your GIF"> 
 
-My name is <b>Sam</b> and I'm a team-oriented <b>Postdoctoral Research Fellow</b> (Molecular Biology) and an <b>Honours/PhD student supervisor</b>. 
+My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> (Molecular Biology) and an <b>Honours/PhD student supervisor</b>. 
 - I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 - Over the last 12 months I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
 - I have <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Network), <b>JavaScript</b>  and <b>HTML/CSS</b> skills.
