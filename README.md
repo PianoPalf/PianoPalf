@@ -10,7 +10,7 @@ I leveraged my Biomedical knowledge my newly acquired Data Analysis skills to cr
 *   🌍  I'm based in Melbourne, Australia
 *   🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
 *   ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
-*   🚀  I'm currently working on [AMPnet: deep convolutional neural network](http://github.com/PianoPalf/antimicrobial-neural-network)
+*   🚀  I'm currently refining [AMPnet: deep convolutional neural network](http://github.com/PianoPalf/antimicrobial-neural-network)
 *   🧠  I'm learning R & Machine Learning
 *   ⚡  I'm looking for a Data Analyst / Bioinformatician position
 
