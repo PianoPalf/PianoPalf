@@ -2,9 +2,9 @@
 ### Postdoctoral Research Fellow | Aspiring Data Analyst / Bioinformatician
 Hi! My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) and an Honours/PhD student supervisor. I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>. 
 
-Over the last 12 months, I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I now have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
+Over the last 12 months, I developed a passion for Data Analysis and recently completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I now have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
 
-Recently, I leveraged my Biomedical knowledge and my newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
+I leveraged my Biomedical knowledge and my newly acquired Data Analytical skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
 *   🌍  I'm based in Melbourne, Australia
 *   🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
