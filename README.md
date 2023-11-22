@@ -1,8 +1,10 @@
 ![masthead](https://media.licdn.com/dms/image/D5616AQGTco3WT3AEFQ/profile-displaybackgroundimage-shrink_350_1400/0/1699933992704?e=1706140800&v=beta&t=q5bc8Ip2X35KOqAQsuqgOT1Fe0fZlZTDY1aURKwvnz8)
 ### Postdoctoral Research Fellow | Aspiring Data Analyst / Bioinformatician
-My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) with 10+ years of wet laboratory experience and 5 years of Honours/PhD student supervision experience. I recently developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
+Hi! My name is Samuel Palframan and I'm a team-oriented Postdoctoral Research Fellow (Molecular Biology) and an Honours/PhD student supervisor. I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>. 
 
-I recently created [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network): a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
+Recently, I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University. I now have Python, R, Machine Learning (including Deep Neural Network), JavaScript  and HTML/CSS skills and I'm currently looking for a Data Analyst / Bioinformatician position.
+
+I leveraged my Biomedical knowledge my newly acquired Data Analysis skills to create <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 <a href="https://github.com/PianoPalf/antimicrobial-neural-network"><img align="right" alt="Coding" width="250" src="https://github.com/PianoPalf/antimicrobial-neural-network/blob/main/Resources/Images/ampnet_logo.png"></a>
 
 *   🌍  I'm based in Melbourne, Australia
