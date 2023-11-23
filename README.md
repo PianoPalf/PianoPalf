@@ -1,7 +1,7 @@
 ![masthead](images/masthead.png)
 ## Hello there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Your GIF"> 
 
-My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field of <b>Molecular Biology</b> and an <b>Honours/PhD student supervisor</b>. 
+My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of <b>Molecular Biology</b> and an <b>Honours/PhD student supervisor</b>. 
 * 📄 I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 
 * 🌱 In the last year, I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
@@ -10,17 +10,17 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field
 
 * ⚡ I recently created <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 
-* 🌍  I'm based in Melbourne, Australia
+* 🌍  I'm based in Melbourne, Australia.
 
-* 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan)
+* 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan).
 
 * ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
 
-* 🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)
+* 🚀  I'm currently refining [AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network).
 
-* 🧠  I'm learning R & Machine Learning
+* 🧠  I'm further developing my R & Machine Learning skills.
 
-* 🔭  I'm looking for a Data Analyst / Bioinformatician position
+* 🔭  I'm looking for a Data Analyst / Bioinformatician position.
 
 ### Skills
 
@@ -90,3 +90,4 @@ My name is <b>Sam</b> and I'm a <b>Postdoctoral Research Fellow</b> in the field
 </picture>
 </a>
 </p>
+
