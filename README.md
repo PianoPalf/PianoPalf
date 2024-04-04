@@ -4,7 +4,7 @@
 My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of <b>Molecular Biology</b> and an <b>Honours/PhD student supervisor</b>. 
 * 📄 I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 * 🌱 In the last year, I developed a passion for Data Analysis and completed a 6-month intensive Data Analytics Boot Camp run by Monash University.
-* 👨‍💻 I acquired <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Network), <b>JavaScript</b>, <b>SQL/NoSQL</b>  and <b>HTML/CSS</b> skills.
+* 👨‍💻 I acquired <b>Python</b>, <b>R</b>, <b>Machine Learning</b> (including Deep Neural Networks), <b>JavaScript</b>, <b>SQL/NoSQL</b>  and <b>HTML/CSS</b> skills.
 * ⚡ I recently created <b>[AMPnet](http://github.com/PianoPalf/antimicrobial-neural-network)</b>: a Deep Convolutional Neural Network that predicts Antimicrobial Peptides (AMPs) based on amino acid sequence.
 * 🌍  I'm based in Melbourne, Australia.
 * 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan).
@@ -80,4 +80,3 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 </picture>
 </a>
 </p>
-
