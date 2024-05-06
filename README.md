@@ -5,7 +5,7 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 * 📄 I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 * 🔬 I'm proficient at many molecular biology techniques and supervised multiple Honours and PhD students to degree completion.
 * 🌱 I have a PhD in Biochemistry and Molecular Biology, and a Certificate in Data Analytics from Monash University. 
-* 👨‍💻 I possess <b>Python</b>, <b>R</b>, <b>machine learning</b> (including deep neural networks), <b>JavaScript</b>, <b>SQL/NoSQL</b> and <b>HTML/CSS</b> skills.
+* 👨‍💻 I have <b>Python</b>, <b>R</b>, <b>machine learning</b> (including deep neural networks), <b>JavaScript</b>, <b>SQL/NoSQL</b> and <b>HTML/CSS</b> skills.
 * ⭐️ I'm genuinely excited and eager to use machine learning and bioinformatics to accelerate drug discovery and solve complex biomedical problems.
 * ⚡ I recently created <b>[AMPnet](https://antimicrobial-neural-network-app-palframan.streamlit.app)</b>: a deep convolutional neural network that predicts antimicrobial peptides (AMPs) based on amino acid sequence.
 * 🌍  I'm based in Melbourne, Australia.
@@ -82,4 +82,3 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 </picture>
 </a>
 </p>
-
