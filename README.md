@@ -11,7 +11,7 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 * 🌍  I'm based in Melbourne, Australia.
 * 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan).
 * ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
-* 🚀  I'm currently looking for work.
+* 🚀  I'm currently working as a Machine Learning and Molecular Biology Expert Consultant for [DataDivers.io](https://www.datadivers.io).
 
 ### Skills
 
@@ -81,4 +81,3 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 </picture>
 </a>
 </p>
-
