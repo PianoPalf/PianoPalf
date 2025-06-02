@@ -5,13 +5,12 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 * 📄 I previously worked on characterising the cancer-associated vacuolating cytotoxin A (VacA) of <i>Helicobacter pylori</i>.
 * 🔬 I'm proficient at many molecular biology techniques and have supervised multiple Honours and PhD students to degree completion.
 * 🌱 I have a PhD in Biochemistry and Molecular Biology, and a Certificate in Data Analytics from Monash University. 
-* 👨‍💻 I have <b>Python</b>, <b>R</b>, <b>machine learning</b> (including deep neural networks), <b>JavaScript</b>, <b>SQL/NoSQL</b> and <b>HTML/CSS</b> skills.
+* 👨‍💻 I have <b>Python</b>, <b>R</b> and <b>machine learning</b> (including deep neural networks) skills.
 * ⚡ I recently created <b>[AMPnet](https://antimicrobial-neural-network-app-palframan.streamlit.app)</b>: a deep convolutional neural network that predicts antimicrobial peptides (AMPs) based on amino acid sequence.
-* ⭐️ I'm genuinely excited and eager to use machine learning and bioinformatics to accelerate drug discovery and solve complex biomedical problems.
+* ⭐️ I'm genuinely excited and eager to use machine learning and bioinformatic techniques to accelerate antimicrobial resistance (AMR) research.
 * 🌍  I'm based in Melbourne, Australia.
-* 🖥️  See my portfolio at [ResearchGate](http:///www.researchgate.net/profile/Samuel-Palframan).
 * ✉️  You can contact me at [samuel.palframan@gmail.com](mailto:samuel.palframan@gmail.com)
-* 🚀  I'm currently working as a Machine Learning and Molecular Biology Expert Consultant for [DataDivers.io](https://www.datadivers.io).
+* 🚀  I'm a Research Officer in Dr Simone Li's Microbiome Systems Research Group at Monash University.
 
 ### Skills
 
@@ -81,3 +80,4 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 </picture>
 </a>
 </p>
+
