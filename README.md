@@ -21,7 +21,16 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></picture></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture><img src="https://c0.klipartz.com/pngpicture/509/951/gratis-png-frasco-por-ejemplo-web-framework-piton-botella-botella.png" width="36" height="36" alt="Flask" /></picture></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></picture></a>
-<a href="
+<a href="https://mozilla.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="JavaScript" /></picture></a>
+<a href="https://mozilla.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="HTML5" /></picture></a>
+<a href="https://w3.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="CSS3" /></picture></a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="MongoDB" /></picture></a>
+<a href="https://mysql.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="MySQL" /></picture></a>
+<a href="https://postgresql.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="PostgreSQL" /></picture></a>
+<a href="https://alchemy.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Alchemy" /></picture></a>
+<a href="https://adobe.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Photoshop" /></picture></a>
+<a href="https://adobe.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Illustrator" /></picture></a>
+</p>
 
 ### Socials
 
