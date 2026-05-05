@@ -14,23 +14,14 @@ My name is <b>Sam</b>, I'm a <b>Postdoctoral Research Fellow</b> in the field of
 ### Skills
 
 <p align="left">
-<a href="https://python.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Python" /></picture></a>
-<a href="https://pydata.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/></picture></a>
-<a href="https://pydata.org" target="_blank" rel="noreferrer"><picture><img src="https://pydata.org_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></picture></a>
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"><picture><img src="https://wikimedia.org" alt="scikit_learn" width="40" height="40"/></picture></a>
-<a href="https://tensorflow.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="TensorFlow" /></picture></a>
-<a href="https://palletsprojects.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Flask" /></picture></a>
-<a href="https://r-project.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="rlang" /></picture></a>
-<a href="https://mozilla.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="JavaScript" /></picture></a>
-<a href="https://mozilla.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="HTML5" /></picture></a>
-<a href="https://w3.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="CSS3" /></picture></a>
-<a href="https://mongodb.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="MongoDB" /></picture></a>
-<a href="https://mysql.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="MySQL" /></picture></a>
-<a href="https://postgresql.org" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="PostgreSQL" /></picture></a>
-<a href="https://alchemy.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Alchemy" /></picture></a>
-<a href="https://adobe.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Photoshop" /></picture></a>
-<a href="https://adobe.com" target="_blank" rel="noreferrer"><picture><img src="https://githubusercontent.com" width="36" height="36" alt="Illustrator" /></picture></a>
-</p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></picture></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" /></picture></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><picture><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="seaborn" /></picture></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><picture><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit_learn" /></picture></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></picture></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture><img src="https://c0.klipartz.com/pngpicture/509/951/gratis-png-frasco-por-ejemplo-web-framework-piton-botella-botella.png" width="36" height="36" alt="Flask" /></picture></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></picture></a>
+<a href="
 
 ### Socials
 
